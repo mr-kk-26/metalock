@@ -4,7 +4,7 @@ project build on mvc architecture Nodejs express
 
 
 add .env file
-with : PORT, DB_URL
+with : PORT, DB_URL, SECRET
 
 
 **TO start the application ----node server.js
